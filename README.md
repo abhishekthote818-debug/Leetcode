@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
 | ------- |
