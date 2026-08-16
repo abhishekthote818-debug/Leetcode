@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0100-same-tree) |
 ## Linked List
 |  |
@@ -87,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
