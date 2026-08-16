@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
