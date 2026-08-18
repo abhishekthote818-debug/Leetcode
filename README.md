@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0099-recover-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
