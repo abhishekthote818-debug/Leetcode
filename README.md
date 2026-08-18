@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
+| [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## String
 |  |
 | ------- |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
+| [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Tree
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
