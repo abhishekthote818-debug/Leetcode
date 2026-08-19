@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
