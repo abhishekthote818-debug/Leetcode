@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
