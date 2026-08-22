@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0125-valid-palindrome) |
 ## Math
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Backtracking
 |  |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
