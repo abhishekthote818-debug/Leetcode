@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0049-group-anagrams) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
