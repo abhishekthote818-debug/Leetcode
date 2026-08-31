@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
