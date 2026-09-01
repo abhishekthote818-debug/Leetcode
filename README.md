@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Tree
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -187,5 +191,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
