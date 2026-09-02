@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Backtracking
 |  |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
