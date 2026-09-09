@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/abhishekthote818-debug/Leetcode/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
